@@ -1,7 +1,7 @@
 # ar-js-tutorial
 
 ## Live app
-https://dust-free-key.glitch.me/
+https://georgesilion.github.io/ar-js-tutorial/
 
 ## Default AR marker 
 ![AR marker](/assets/default-marker.png)
